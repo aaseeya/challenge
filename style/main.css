@@ -1,0 +1,207 @@
+body {
+  margin-top: 20px;
+  font-family: "Public + Sans;";
+  background-color: #fafafa;
+  color: #2d314d;
+  font-family: "epilogue";
+}
+
+main {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+section {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+ul {
+  margin-top: -5px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 10px;
+  color: #9698a6;
+}
+
+ul li {
+  list-style: none;
+}
+
+button {
+  background: -webkit-gradient(linear, right top, left top, from(#2bb7da), to(#31d35c));
+  background: linear-gradient(to left, #2bb7da, #31d35c);
+  height: 40px;
+  width: 150px;
+  color: #f3f4f6;
+  border: 0px;
+  border-radius: 20px;
+}
+
+.section2 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin-top: 50px;
+}
+
+.section2 img {
+  margin-right: -100px;
+  height: 500px;
+}
+
+.digital-banking {
+  font-size: 40px;
+  font-weight: 300;
+}
+
+.digital-banking2 {
+  margin-top: -20px;
+  margin-bottom: 20px;
+}
+
+.digital-banking2 {
+  font-size: 16px;
+  color: #9698a6;
+}
+
+.section3 {
+  background-color: #f3f4f6;
+  padding-top: 30px;
+}
+
+.section3 .banking {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.why {
+  font-size: 35px;
+  font-weight: 300;
+}
+
+.why2 {
+  color: #9698a6;
+  font-size: 18px;
+}
+
+.boxes {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin: 5px;
+}
+
+.boxes .text1 {
+  font-size: 25px;
+  font-weight: 300;
+}
+
+.boxes .text2 {
+  font-size: 13px;
+  color: #9698a6;
+}
+
+.section4 {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.latest {
+  font-size: 30px;
+  font-weight: 300;
+  padding-top: 40px;
+  padding-bottom: 20px;
+}
+
+.boxes-2 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.box-one,
+.box-two,
+.box-three,
+.box-four {
+  background-color: white;
+  width: 370px;
+  margin: 8px;
+}
+
+.box-one img,
+.box-two img,
+.box-three img,
+.box-four img {
+  width: 270px;
+  height: 160px;
+}
+
+.name {
+  font-size: 10px;
+  color: #9698a6;
+  margin-left: 15px;
+}
+
+.box-text {
+  margin-left: 15px;
+  font-size: 20px;
+  font-weight: 300;
+}
+
+.box-text2 {
+  margin-left: 15px;
+  font-size: 13px;
+  color: #9698a6;
+}
+
+footer {
+  background-color: #2d314d;
+  margin-top: 50px;
+  color: white;
+}
+
+footer section {
+  padding-top: 30px;
+  margin-left: 100px;
+  margin-right: 100px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+footer section ul {
+  gap: 15px;
+  margin-left: -45px;
+}
+
+.white-logo {
+  -webkit-filter: invert(0.5) sepia(1) saturate(0.5) brightness(5);
+          filter: invert(0.5) sepia(1) saturate(0.5) brightness(5);
+}
+
+.attribution {
+  margin-top: 30px;
+}
+/*# sourceMappingURL=main.css.map */
